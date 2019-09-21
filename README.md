@@ -1,2 +1,2 @@
 # hello-word
-Repositório de introdução ao Git
+Repositório de introdução ao Git.
